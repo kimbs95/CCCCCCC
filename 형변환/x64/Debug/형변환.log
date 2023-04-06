@@ -1,0 +1,28 @@
+﻿  HonGong.c
+C:\C언어\형변환\HonGong.c(26,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(26,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(27,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(27,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(28,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(28,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(29,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(29,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(30,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(30,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(31,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(31,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(32,9): warning C4477: 'printf' : 서식 문자열 '% d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(32,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(33,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(33,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(37,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\C언어\형변환\HonGong.c(38,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(38,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(58,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(58,9): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(59,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(59,9): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\C언어\형변환\HonGong.c(64,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\C언어\형변환\HonGong.c(64,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\C언어\형변환\HonGong.c(68,29): warning C4013: 'kbs'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  형변환.vcxproj -> C:\C언어\형변환\x64\Debug\형변환.exe
