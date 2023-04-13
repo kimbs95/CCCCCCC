@@ -7,6 +7,9 @@ int main() {
 	// gets , puts  문자열 입출력 ;
 	//scanf 는 띄어쓰기를 하면 null 값이 공백에 들어가 그 앞에까지만 나온다
 
+	char pop[2][20] = { "KBS2","LKE2" };
+	puts(pop[0]);
+	
 	char aa[80];
 	printf("gets 문자열을 입력하세요 \n");
 	gets(aa);
