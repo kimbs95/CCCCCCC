@@ -1,2 +1,22 @@
 ﻿  HonGong.c
+C:\C언어\Pointer\HonGong.c(79,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(79,9): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(85,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(85,9): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(86,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(86,9): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(87,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(87,9): message : 서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(89,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(89,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(90,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(90,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(91,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(91,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(94,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(94,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(95,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(95,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\C언어\Pointer\HonGong.c(96,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\C언어\Pointer\HonGong.c(96,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
   Pointer.vcxproj -> C:\C언어\Pointer\x64\Debug\Pointer.exe
